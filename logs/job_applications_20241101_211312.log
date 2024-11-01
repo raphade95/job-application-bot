@@ -1,0 +1,14 @@
+2024-11-01 21:13:12,063 - INFO - Logging system initialized
+2024-11-01 21:13:12,063 - INFO - Configuration loaded successfully
+2024-11-01 21:13:12,063 - INFO - ====== WebDriver manager ======
+2024-11-01 21:13:12,921 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-01 21:13:12,921 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-01 21:13:12,921 - INFO - There is no [mac64] chromedriver "130.0.6723.92" for browser google-chrome "130.0.6723.92" in cache
+2024-11-01 21:13:12,926 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-01 21:13:13,014 - INFO - WebDriver version 130.0.6723.91 selected
+2024-11-01 21:13:13,016 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.91/mac-arm64/chromedriver-mac-arm64.zip
+2024-11-01 21:13:13,016 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.91/mac-arm64/chromedriver-mac-arm64.zip
+2024-11-01 21:13:13,073 - INFO - Driver downloading response is 200
+2024-11-01 21:13:13,632 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-01 21:13:13,711 - INFO - Driver has been saved in cache [/Users/ralph/.wdm/drivers/chromedriver/mac64/130.0.6723.92]
+2024-11-01 21:13:13,715 - ERROR - Failed to initialize WebDriver: [Errno 8] Exec format error: '/Users/ralph/.wdm/drivers/chromedriver/mac64/130.0.6723.92/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver'
