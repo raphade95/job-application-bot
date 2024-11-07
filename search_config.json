@@ -1,0 +1,19 @@
+{
+    "searches": [
+        {
+            "keywords": "Python Developer",
+            "location": "Remote",
+            "filters": null
+        },
+        {
+            "keywords": "Software Engineer",
+            "location": "San Francisco",
+            "filters": {
+                "experience_level": "Entry level",
+                "job_type": "Full-time",
+                "remote": "Remote",
+                "date_posted": "Past 24 hours"
+            }
+        }
+    ]
+}

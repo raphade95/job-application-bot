@@ -1,6 +1,0 @@
-2024-11-01 21:24:30,388 - INFO - Logging system initialized
-2024-11-01 21:24:30,389 - INFO - Configuration loaded successfully
-2024-11-01 21:24:30,389 - INFO - ====== WebDriver manager ======
-2024-11-01 21:24:30,543 - INFO - There is no [mac_arm64] chromedriver "latest" for browser google-chrome "130.0.6723" in cache
-2024-11-01 21:24:30,544 - INFO - Get LATEST chromedriver version for google-chrome
-2024-11-01 21:24:30,727 - ERROR - Failed to initialize WebDriver: There is no such driver by url https://chromedriver.storage.googleapis.com/LATEST_RELEASE_130.0.6723

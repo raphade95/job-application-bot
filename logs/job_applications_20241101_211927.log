@@ -1,3 +1,0 @@
-2024-11-01 21:19:27,137 - INFO - Logging system initialized
-2024-11-01 21:19:27,138 - INFO - Configuration loaded successfully
-2024-11-01 21:19:27,138 - ERROR - Failed to initialize WebDriver: ChromeDriverManager.__init__() got an unexpected keyword argument 'path'
