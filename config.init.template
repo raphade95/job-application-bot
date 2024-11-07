@@ -1,0 +1,22 @@
+### copy this to your config.ini file ###
+
+[LinkedIn]
+login_url = https://www.linkedin.com/login
+email = your_email@example.com
+password = your_password
+
+[Indeed]
+email = your_email@example.com
+password = your_password
+
+[Skills]
+required = python,selenium
+preferred = javascript,docker
+min_preferred = 1
+
+[SearchCriteria]
+keywords = Software Engineer
+location = Remote
+
+[Browser]
+headless = false
